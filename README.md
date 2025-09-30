@@ -18,9 +18,7 @@
 ## 💡 About Me
 
 - 🔭 Currently building:  
-  [Subtitle Encoder](https://github.com/salman-dev-app/Subtitle-encoder) |  
-  [Manga Blogger Bot](https://github.com/salman-dev-app/manga-blogger-bot) |  
-  [Anime Subs Platform](https://github.com/salman-dev-app/anime-subs-backend)
+  [Manga Blogger Bot](https://github.com/salman-dev-app/manga-blogger-bot) |
 - 🎓 CS student passionate about automation, bots, and open source.
 - 🧠 Always learning new frameworks, cloud, and scripting tricks.
 - 🤝 Open to collaboration on creative and impactful projects!
