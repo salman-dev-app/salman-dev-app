@@ -54,7 +54,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/salman-dev-app)
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Otakuosenpai)
-[![Facebook](https://img.shields.io/badge/-Facebook-2CA5E0?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17XvxrUj56/)
+[![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17XvxrUj56/)
 
 ---
 
