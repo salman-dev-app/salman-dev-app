@@ -1,62 +1,129 @@
-# 👋 Hi, I’m Salman!
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md%20Salman%20Biswas&fontSize=44&fontAlignY=35&color=gradient" />
+</p>
 
-**Software Engineer** | **CS Student** | 🛠️ *Full-Stack Developer*
-
----
-
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<!-- ================= TYPING ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2600&pause=700&center=true&vCenter=true&width=700&lines=Web+Developer;Open+Source+Contributor;Frontend+and+Backend;Design+and+Code;Based+in+Bangladesh" />
+</p>
 
 ---
 
-## 💡 About Me
+## ABOUT
 
-- 🔭 Currently building:  
-   [Gembot Ai](https://github.com/salman-dev-app/Chatbotai) |
-- 🎓 CS student passionate about automation, bots, and open source.
-- 🧠 Always learning new frameworks, cloud, and scripting tricks.
-- 🤝 Open to collaboration on creative and impactful projects!
+I am **Md Salman Biswas**, a Web Developer focused on building clean, scalable, and user-friendly web applications.  
+My work blends development and design to deliver practical, maintainable solutions.
 
----
-
-## 🌱 Professional Interests
-
-- Cloud & DevOps · Real-time Bots · Automation
-- Community-driven open-source projects
-- Building tools for students and developers
+Freelance availability is open.  
+Primary focus areas include performance, UI quality, and long-term maintainability.
 
 ---
 
-## ✨ Fun Facts & Hobbies
+## PROFILE INFORMATION
 
-- 🐉 Anime & manga enthusiast (ask me for recs!)
-- 🧩 Hackathon participant & coding challenge lover
-- ☕ Coffee + code = bug-free zone (almost!)
-- 📝 Blogger on tech & student life
-- 🌏 Exploring cultures, hiking, and learning Japanese
+**Name**  
+Md Salman Biswas  
+
+**Age**  
+20  
+
+**Nationality**  
+Bangladesh  
+
+**Location**  
+Khulna, Magura, Bangladesh  
+
+**Email**  
+mdsalmanhelp@gmail.com  
+
+**WhatsApp**  
++880 1840933137  
 
 ---
 
-## 🌐 Connect with Me
+## TECHNICAL SKILLS
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/salman-dev-app)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Otakuosenpai)
-[![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17XvxrUj56/)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,git,github&perline=4" />
+</p>
+
+**Skill Proficiency**
+
+- HTML — 88%  
+- CSS3 — 98%  
+- JavaScript — 90%  
+- React — 68%  
+- PHP — 72%  
+- Python — 75%  
+- AI Prompting — 78%  
+- Design — 71%  
 
 ---
 
-> *“Code with passion. Build with purpose. Connect with community.”*
-> 
+## EXPERIENCE SUMMARY
+
+- 5+ years of practical experience  
+- 55+ completed projects  
+- 9 satisfied clients  
+- 1 professional award  
+
+---
+
+## EDUCATION
+
+**Secondary Education (2020)**  
+Kaliprasanna Secondary School  
+Shatrujitpur Bazar, Magura, Bangladesh  
+
+Completed secondary education up to Class 10.
+
+---
+
+## LANGUAGES
+
+- Bangla  
+- English  
+- Hindi  
+- Urdu  
+
+---
+
+## GITHUB ANALYTICS
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-dev-app&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&hide_border=true" />
+</p>
+
+---
+
+## LINKS
+
+<p align="center">
+  <a href="https://github.com/salman-dev-app">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wa.me/8801840933137">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://t.me/Otakuosenpai">
+    <img src="https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://t.me/salmandevapp">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://facebook.com/salmandevapp">
+    <img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+</p>
