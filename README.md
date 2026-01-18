@@ -1,29 +1,61 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= MAIN HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Md%20Salman%20Biswas&fontSize=44&fontAlignY=35&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&animation=fadeIn" />
 </p>
 
-<!-- ================= TYPING ================= -->
+<!-- ================= ANIMATED NAME ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2600&pause=700&center=true&vCenter=true&width=700&lines=Web+Developer;Open+Source+Contributor;Frontend+and+Backend;Design+and+Code;Based+in+Bangladesh" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Montserrat
+    &size=36
+    &duration=1800
+    &pause=1200
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=MD+SALMAN+BISWAS
+    &color=0A66C2" />
 </p>
+
+<!-- ================= SUB TITLE ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+    font=Fira+Code
+    &size=22
+    &duration=2400
+    &pause=600
+    &center=true
+    &vCenter=true
+    &width=760
+    &lines=WEB+DEVELOPER;FULL+STACK+ENGINEERING;DESIGN+AND+CODE;OPEN+SOURCE+WORK;BASED+IN+BANGLADESH" />
+</p>
+
+<!-- ================= RGB DIVIDER ================= -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<!-- ================= INTRO ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/INTRODUCTION-000000?style=for-the-badge" />
+</p>
+
+I am **MD SALMAN BISWAS**, a Web Developer focused on building scalable, clean, and maintainable web applications.  
+My work blends development and design with a strong emphasis on clarity, performance, and long-term usability.
 
 ---
 
-## ABOUT
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
 
-I am **Md Salman Biswas**, a Web Developer focused on building clean, scalable, and user-friendly web applications.  
-My work blends development and design to deliver practical, maintainable solutions.
-
-Freelance availability is open.  
-Primary focus areas include performance, UI quality, and long-term maintainability.
-
----
-
-## PROFILE INFORMATION
+<!-- ================= PROFILE ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE-DETAILS-111111?style=for-the-badge" />
+</p>
 
 **Name**  
-Md Salman Biswas  
+MD SALMAN BISWAS  
 
 **Age**  
 20  
@@ -40,15 +72,23 @@ mdsalmanhelp@gmail.com
 **WhatsApp**  
 +880 1840933137  
 
+**Availability**  
+Freelance — Open  
+
 ---
 
-## TECHNICAL SKILLS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" />
+</p>
+
+<!-- ================= SKILLS ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TECHNICAL-SKILLS-000000?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,git,github&perline=4" />
 </p>
-
-**Skill Proficiency**
 
 - HTML — 88%  
 - CSS3 — 98%  
@@ -61,39 +101,60 @@ mdsalmanhelp@gmail.com
 
 ---
 
-## EXPERIENCE SUMMARY
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
-- 5+ years of practical experience  
+<!-- ================= EXPERIENCE ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/EXPERIENCE-SUMMARY-111111?style=for-the-badge" />
+</p>
+
+- 5+ years of hands-on experience  
 - 55+ completed projects  
 - 9 satisfied clients  
 - 1 professional award  
 
 ---
 
-## EDUCATION
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
+
+<!-- ================= EDUCATION ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/EDUCATION-000000?style=for-the-badge" />
+</p>
 
 **Secondary Education (2020)**  
 Kaliprasanna Secondary School  
 Shatrujitpur Bazar, Magura, Bangladesh  
 
-Completed secondary education up to Class 10.
-
 ---
-
-## LANGUAGES
-
-- Bangla  
-- English  
-- Hindi  
-- Urdu  
-
----
-
-## GITHUB ANALYTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-dev-app&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
+</p>
+
+<!-- ================= LANGUAGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LANGUAGES-111111?style=for-the-badge" />
+</p>
+
+Bangla  
+English  
+Hindi  
+Urdu  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" />
+</p>
+
+<!-- ================= ACTIVITY ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVITY-000000?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -102,28 +163,34 @@ Completed secondary education up to Class 10.
 
 ---
 
-## LINKS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
+<!-- ================= LINKS ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CONNECT-111111?style=for-the-badge" />
+</p>
 
 <p align="center">
   <a href="https://github.com/salman-dev-app">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://wa.me/8801840933137">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WHATSAPP-green?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://t.me/Otakuosenpai">
-    <img src="https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://t.me/salmandevapp">
-    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM%20CHANNEL-blue?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://facebook.com/salmandevapp">
-    <img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook" />
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 </p>
 
----
-
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" />
 </p>
