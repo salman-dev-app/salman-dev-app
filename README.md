@@ -1,9 +1,6 @@
-<!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0078d4,100:00bcce&height=280&section=header&text=MD%20SALMAN%20BISWAS&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=SENIOR%20SOFTWARE%20ENGINEER&descSize=22&descAlignY=60" width="100%" />
-</p>
-
-<!-- ================= DYNAMIC STATUS ================= -->
+</p> 
 <p align="center">
   <img src="https://img.shields.io/badge/DATE-JAN%2018%2C%202026-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ONLINE-2ea44f?style=for-the-badge" />
@@ -15,7 +12,6 @@
 
 <hr>
 
-<!-- ================= ABOUT ME (MOBILE OPTIMIZED) ================= -->
 <h2 align="center">📋 EXECUTIVE SUMMARY</h2>
 
 <p align="left">
@@ -29,7 +25,7 @@ I am a <b>Senior Software Engineer</b> specialized in building scalable enterpri
 
 <hr>
 
-<!-- ================= TECH STACK (STABLE ICONS) ================= -->
+
 <h2 align="center">💻 TECHNICAL ECOSYSTEM</h2>
 
 <div align="center">
@@ -37,24 +33,20 @@ I am a <b>Senior Software Engineer</b> specialized in building scalable enterpri
   <p><b>--- FRONTEND DEVELOPMENT ---</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
   <br><br>
-  <!-- Backend -->
+  
   <p><b>--- BACKEND & DATABASE ---</b></p>
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,mysql,mongodb,postgres" />
   <br><br>
-  <!-- Infrastructure -->
+  
   <p><b>--- INFRASTRUCTURE & TOOLS ---</b></p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,linux,figma,postman" />
 </div>
 
 <hr>
 
-<!-- ================= DEVELOPMENT METRICS ================= -->
+
 <h2 align="center">📊 DEVELOPMENT PERFORMANCE</h2>
 
-<!-- I am using a different stats layout to ensure it loads on mobile -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&text_color=ffffff" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salman-dev-app&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=0078D4" width="100%" />
@@ -62,7 +54,7 @@ I am a <b>Senior Software Engineer</b> specialized in building scalable enterpri
 
 <hr>
 
-<!-- ================= ADDITIONAL FEATURES ================= -->
+
 <h2 align="center">🚀 ENGINEERING WORKFLOW</h2>
 
 | Feature | Description |
@@ -74,7 +66,7 @@ I am a <b>Senior Software Engineer</b> specialized in building scalable enterpri
 
 <hr>
 
-<!-- ================= CONTACT (TELEGRAM ADDED) ================= -->
+
 <h2 align="center">🤝 CONNECT WITH ME</h2>
 
 <p align="center">
