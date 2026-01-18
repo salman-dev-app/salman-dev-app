@@ -5,15 +5,15 @@
 
 <!-- ================= VISITOR COUNTER & BADGES ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salman-dev-app&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/salman-dev-app?label=FOLLOWERS&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/AVAILABILITY-FREELANCE-orange?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=salman-dev-app&label=PROFILE+VIEWS&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/salman-dev-app?label=FOLLOWERS&style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-flat-square" />
+  <img src="https://img.shields.io/badge/AVAILABILITY-FREELANCE-flat-square" />
 </p>
 
 <!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=600&color=00E676&center=true&vCenter=true&width=820&lines=Full+Stack+Web+Developer;Software+Engineer;UI+and+UX+Focused;Open+Source+Contributor;Based+in+Bangladesh" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=600&center=true&vCenter=true&width=820&lines=Full+Stack+Web+Developer;Software+Engineer;UI+and+UX+Focused;Open+Source+Contributor;Based+in+Bangladesh" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
@@ -21,32 +21,29 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= ABOUT ME (TEXT ONLY) ================= -->
 <table align="center" width="100%">
   <tr>
-    <td width="60%">
+    <td width="100%">
       <h2 align="center">ABOUT ME</h2>
-      <p>
+      <p align="left">
         I am <b>MD SALMAN BISWAS</b>, a Full Stack Web Developer from Bangladesh.
-        I focus on building scalable, high-performance, and maintainable web applications
-        using modern development practices.
+        I focus on building scalable, high-performance, and maintainable web
+        applications using modern development practices.
       </p>
       <ul>
-        <li>Current Focus: Advanced Web Systems</li>
-        <li>Learning: Machine Learning, Blockchain</li>
-        <li>Open to collaboration and open-source work</li>
-        <li>Core stack: React, PHP, Python, JavaScript</li>
+        <li><b>Current Focus:</b> Advanced Web Systems</li>
+        <li><b>Learning:</b> Machine Learning, Blockchain</li>
+        <li><b>Open to:</b> Collaboration and open-source work</li>
+        <li><b>Core Stack:</b> React, PHP, Python, JavaScript</li>
       </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,php,python&perline=3" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<!-- ================= SKILLS ================= -->
+<!-- ================= TECHNICAL SKILLS ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/TECHNICAL-SKILLS-000000?style=for-the-badge" />
 </p>
@@ -79,7 +76,7 @@
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
+<!-- ================= EXPERIENCE SUMMARY ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/PROFESSIONAL-SUMMARY-111111?style=for-the-badge" />
 </p>
@@ -93,7 +90,7 @@
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+<!-- ================= DEVELOPMENT ACTIVITY ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVITY-000000?style=for-the-badge" />
 </p>
