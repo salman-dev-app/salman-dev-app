@@ -58,13 +58,6 @@
 
 <br/>
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" style="vertical-align: middle;" /> GitHub Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salman-dev-app&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%">
-</div>
-
-<br/>
-
 **Overall Performance**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" alt="GitHub Stats" width="80%">
@@ -105,7 +98,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="30" height="30" style="vertical-align: middle;" /> Why Collaborate With Me?
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" style="vertical-align: middle;" /> Why Collaborate With Me?
 
 <div align="center">
 
@@ -247,7 +240,7 @@ Support my open-source work and coding sessions:
   <p>
     Auto Update Profile Status
     <a href="https://github.com/salman-dev-app">
-      <img src="https://github.com/salman-dev-app/salman-dev-app/actions/workflows/update.yml/badge.svg" alt="Status" style="vertical-align: middle;">
+      <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
     </a>
   </p>
   <p>Engineered by <a href="https://github.com/salman-dev-app">Md Salman Biswas</a></p>
