@@ -238,8 +238,7 @@ Support my open-source work and coding sessions:
 <footer align="center">
   <p>© 2024-2026 Md Salman Biswas • All rights reserved</p>
   <p>
-    Profile Status
-    <a href="https://github.com/salman-dev-app">
+  <a href="https://github.com/salman-dev-app">
       <img src="https://img.shields.io/badge/Profile_Status-Active-4ECDC4?style=flat" alt="Status" style="vertical-align: middle;">
     </a>
   </p>
