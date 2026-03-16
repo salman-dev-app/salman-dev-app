@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/salman-dev-app">
-    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=F7F7F7&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Welcome+to+My+Workspace;Architecting+Enterprise+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Tagesschrift&size=25&duration=2000&pause=800&color=0096FF&background=FF001400&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Welcome+to+My+Workspace;Architecting+Enterprise+Solutions" alt="Typing SVG" style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
