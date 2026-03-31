@@ -52,7 +52,7 @@ I’m especially interested in:
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salman-dev-app&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff" alt="GitHub Stats" width="49%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-dev-app&theme=react&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
 </div>
 
@@ -97,7 +97,7 @@ I’m especially interested in:
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" height="28" /> Featured Work
 
-> Add your best 3–5 repositories here. This is one of the most important parts of your profile.
+> no project yet.
 
 ### Featured Projects
 - **Project One** — Short one-line description of the product and its impact
