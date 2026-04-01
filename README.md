@@ -60,9 +60,8 @@ I’m especially interested in:
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=salman-dev-app&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1" 
-    alt="GitHub Achievements" 
-    width="50%" 
+    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=salman-dev-app&theme=darkhub&no-frame=true&no-bg=true" 
+    width="90%" 
   />
 </div>
 
