@@ -59,7 +59,11 @@ I’m especially interested in:
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-dev-app&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" alt="Top Languages" width="42%" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=salman-dev-app&theme=onestar&no-frame=true&no-bg=true&margin-w=15&row=1" 
+    alt="GitHub Achievements" 
+    width="50%" 
+  />
 </div>
 
 ---
