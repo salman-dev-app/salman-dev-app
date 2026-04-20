@@ -103,9 +103,7 @@ I’m especially interested in:
 > no project yet.
 
 ### Featured Projects
-- **Project One** — Short one-line description of the product and its impact
-- **Project Two** — Short one-line description of the stack and problem solved
-- **Project Three** — Short one-line description of the result, users, or performance
+> no project yet.
 
 ---
 
