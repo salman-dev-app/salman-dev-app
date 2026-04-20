@@ -98,15 +98,6 @@ I’m especially interested in:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" height="28" /> Featured Work
-
-> no project yet.
-
-### Featured Projects
-> no project yet.
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="28" height="28" /> Professional Focus
 
 I enjoy working on projects involving:
