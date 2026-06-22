@@ -56,15 +56,6 @@ I’m especially interested in:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-dev-app&theme=react&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=ffffff" alt="GitHub Streak" width="49%" />
 </div>
 
-<br />
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=salman-dev-app&theme=darkhub&no-frame=true&no-bg=true" 
-    width="90%" 
-  />
-</div>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" height="28" /> Tech Stack
